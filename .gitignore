@@ -1,0 +1,6 @@
+verv/
+.env/
+.verv/
+env/
+node_modules/
+dist/
